@@ -1,0 +1,24 @@
+p {
+	text-align: justify;
+	margin-bottom: 4pt;
+	margin-top: 0pt;
+	size: 2px;
+}
+	
+div {
+	text-align: justify;
+}
+
+blockquote {
+	text-align: justify;
+}
+
+h3 {
+	text-align: center;
+	color: black;
+}
+
+#cont{
+	font-size: 12px;
+	
+}

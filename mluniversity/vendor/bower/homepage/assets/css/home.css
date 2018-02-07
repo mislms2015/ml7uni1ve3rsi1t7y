@@ -1,0 +1,6 @@
+.im{
+    background: url(assets/images/homebg.jpg);
+    background-repeat: no-repeat;
+    /*background-size: auto;*/
+    background-size: cover;
+}
