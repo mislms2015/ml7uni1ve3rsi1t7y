@@ -1,3 +1,4 @@
 [submodule "mluniversity/vendor/kartik-v/yii2-mpdf"]
 	path = mluniversity/vendor/kartik-v/yii2-mpdf
 	url = https://github.com/kartik-v/yii2-mpdf.git
+ 
